@@ -1,0 +1,14 @@
+{
+  "appclips": {
+    "apps": ["JL6Y27T9JW.com.tyk.NotificationTest.Clip"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JL6Y27T9JW.com.tyk.NotificationTest",
+        "paths": [ "/stepclip" ]
+      }
+    ]
+  }
+}
